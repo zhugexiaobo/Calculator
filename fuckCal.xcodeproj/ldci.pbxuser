@@ -1,0 +1,231 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* fuckCalAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2011, 1485}}";
+			sepNavSelRange = "{289, 0}";
+			sepNavVisRange = "{0, 817}";
+			sepNavWindowFrame = "{{350, -79}, {660, 686}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* fuckCal */ = {
+		activeExec = 0;
+		executables = (
+			672D493C1582E728009A9443 /* fuckCal */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* fuckCalViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {579, 795}}";
+			sepNavSelRange = "{773, 0}";
+			sepNavVisRange = "{244, 956}";
+			sepNavWindowFrame = "{{103, 47}, {638, 648}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* fuckCalViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {823, 6765}}";
+			sepNavSelRange = "{7379, 0}";
+			sepNavVisRange = "{7159, 431}";
+			sepNavWindowFrame = "{{364, 28}, {660, 686}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 672D493C1582E728009A9443 /* fuckCal */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* fuckCal */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* fuckCal */,
+		);
+		breakpoints = (
+			676B77491586223C001D4AB0 /* fuckCalViewController.m:374 */,
+			676B77AB1586367B001D4AB0 /* fuckCalViewController.m:203 */,
+		);
+		codeSenseManager = 672D49531582E732009A9443 /* Code sense */;
+		executables = (
+			672D493C1582E728009A9443 /* fuckCal */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 361105234;
+			PBXWorkspaceStateSaveDate = 361105234;
+		};
+		perUserProjectItems = {
+			676B77BA1586371A001D4AB0 /* PBXTextBookmark */ = 676B77BA1586371A001D4AB0 /* PBXTextBookmark */;
+			678FBEDB1585DE1B0003A506 /* PBXTextBookmark */ = 678FBEDB1585DE1B0003A506 /* PBXTextBookmark */;
+			67AC541A15849F55000FEC4B /* PBXTextBookmark */ = 67AC541A15849F55000FEC4B /* PBXTextBookmark */;
+			67B3E2E51584BC030023A9B1 /* PBXTextBookmark */ = 67B3E2E51584BC030023A9B1 /* PBXTextBookmark */;
+			67EF5C35158346F200434F24 /* PBXBookmark */ = 67EF5C35158346F200434F24 /* PBXBookmark */;
+			67EF5C36158346F200434F24 /* PlistBookmark */ = 67EF5C36158346F200434F24 /* PlistBookmark */;
+		};
+		sourceControlManager = 672D49521582E732009A9443 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	672D493C1582E728009A9443 /* fuckCal */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = fuckCal;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	672D49521582E732009A9443 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	672D49531582E732009A9443 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	676B77491586223C001D4AB0 /* fuckCalViewController.m:374 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* fuckCalViewController.m */;
+		functionName = "-pmBtnPressed:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 374;
+		location = fuckCal;
+		modificationTime = 361117424.776655;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	676B77AB1586367B001D4AB0 /* fuckCalViewController.m:203 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* fuckCalViewController.m */;
+		functionName = "-calculatPressed:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 203;
+		location = fuckCal;
+		modificationTime = 361117429.24796;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	676B77BA1586371A001D4AB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* fuckCalViewController.m */;
+		name = "fuckCalViewController.m: 380";
+		rLen = 0;
+		rLoc = 7379;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 7159;
+	};
+	678FBEDB1585DE1B0003A506 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* fuckCalViewController.m */;
+		name = "fuckCalViewController.m: 18";
+		rLen = 0;
+		rLoc = 258;
+		rType = 0;
+		vrLen = 437;
+		vrLoc = 588;
+	};
+	67AC541A15849F55000FEC4B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 67AC541B15849F55000FEC4B /* WCalculatorViewController.h */;
+		name = "WCalculatorViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 315;
+		vrLoc = 0;
+	};
+	67AC541B15849F55000FEC4B /* WCalculatorViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = WCalculatorViewController.h;
+		path = /Users/ldci/Desktop/WCalculatorViewController.h;
+		sourceTree = "<absolute>";
+	};
+	67B3E2E51584BC030023A9B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* fuckCalViewController.h */;
+		name = "fuckCalViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 43;
+	};
+	67EF5C35158346F200434F24 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 67EF5C26158346AB00434F24 /* Calculator.png */;
+	};
+	67EF5C36158346F200434F24 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* fuckCal-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/ldci/Desktop/zuomian/T79IOS/Homework/fuckCal/fuckCal-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+}
